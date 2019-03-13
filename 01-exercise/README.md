@@ -1,4 +1,4 @@
-# Nett-to-know Übung 1
+# Nett-To-Know | Übung 1
 
 ## Haskell Listen
 In Haskell sind Listen homogene Daten Strukturen.  
@@ -11,7 +11,7 @@ d = [1, 'foo', True, 42]        -- keine wohlgeformte Liste!
 ```
 Listen konkatenieren/verketten.  
 Dazu wird der ++ Operator verwendet.  
-```
+```haskell
 a = [1]
 b = [2, 3]
 c = a ++ b -- c = [1, 2, 3]
@@ -19,7 +19,7 @@ c = a ++ b -- c = [1, 2, 3]
 ```
 Einzelne Elemente an Listen prependen.  
 Dazu wird der Cons Operator (:) genutzt.  
-```
+```haskell
 a = [2]           -- Liste mit Listenelementen vom Typ Integer
 b = 4             -- Zahl vom Typ Integer
 c = b : a         -- c = [4, 2]
