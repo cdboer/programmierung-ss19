@@ -11,7 +11,7 @@ c = [True, False]               -- das ist eine Liste
 d = [[1, 2], [3, 4]]            -- das ist eine Liste
 e = [1, 'foo', True, 42]        -- keine wohlgeformte Liste!
 ```
-_++ - Operator_  
+**++ - Operator**  
 Listen konkatenieren/verketten.  
 ```haskell
 a = [1]
@@ -19,7 +19,7 @@ b = [2, 3]
 c = a ++ b -- c = [1, 2, 3]
 -- HINWEIS: Der ++ Operator verlangt, dass alle beteiligten Variablen vom Typ Liste sind.
 ```
-_Cons - Operator (:)_  
+**Cons - Operator (:)**  
 Einzelne Elemente an Listen prependen.  
 ```haskell
 a = [2]           -- Liste mit Listenelementen vom Typ Integer
