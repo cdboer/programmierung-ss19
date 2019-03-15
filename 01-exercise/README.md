@@ -1,16 +1,17 @@
-# Nett-To-Know Ⅰ
+# Nett-To-Know [i]
 
 ## Haskell Listen
 Haskell betrachtet Listen als homogenen Datentyp.  
 Listen dürfen also nur Elemente vom gleichen Typ enthalten.  
-ὁμός-homόs „gleich“ und γένεσις-genesis „Erzeugung, Geburt“ ≙ von gleicher Beschaffenheit  
+ὁμός-homόs "gleich" und γένεσις-genesis "Erzeugung, Geburt", also etwa: "von gleicher Beschaffenheit".  
 ```haskell
 a = [1, 2, 3, 4]                -- das ist eine Liste
 b = ['a', 'b', 'c', 'd']        -- das ist eine Liste
 c = [True, False]               -- das ist eine Liste
-d = [1, 'foo', True, 42]        -- keine wohlgeformte Liste!
+d = [[1, 2], [3, 4]]            -- das ist eine Liste
+e = [1, 'foo', True, 42]        -- keine wohlgeformte Liste!
 ```
-*++ - Operator*  
+_++ - Operator_  
 Listen konkatenieren/verketten.  
 ```haskell
 a = [1]
@@ -18,7 +19,7 @@ b = [2, 3]
 c = a ++ b -- c = [1, 2, 3]
 -- HINWEIS: Der ++ Operator verlangt, dass alle beteiligten Variablen vom Typ Liste sind.
 ```
-*Cons - Operator (:)*  
+_Cons - Operator (:)_  
 Einzelne Elemente an Listen prependen.  
 ```haskell
 a = [2]           -- Liste mit Listenelementen vom Typ Integer
