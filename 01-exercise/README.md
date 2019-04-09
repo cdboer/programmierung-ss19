@@ -1,4 +1,4 @@
-# Nett-To-Know [i]
+# Nett-To-Know 
 
 ## Haskell Listen
 Haskell betrachtet Listen als homogenen Datentyp.  
