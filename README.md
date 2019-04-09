@@ -2,9 +2,9 @@
 Repository für Materialien und Lösungen der Übung Mittwoch 2. DS VMB - Claas de Boer
 
 ## Disclaimer
-Die im Repository befindlichen Lösungen sind nicht vom Lehrstuhl erstellt worden und daher nicht offiziell. 
-Trotz vielfachen Fehlerlesens können immer noch Fehler bestehen. 
-Wer Fehler findet, darf sie gerne per Pull-Request fixen. 
+Die im Repository befindlichen Lösungen sind nicht vom Lehrstuhl erstellt worden und daher nicht offiziell.  
+Trotz vielfachen Fehlerlesens können immer noch Fehler bestehen.  
+Wer Fehler findet, darf sie gerne per Pull-Request fixen.  
 
 ## Links
 **Lehrveranstaltung**  
