@@ -1,11 +1,10 @@
 # Lehrveranstaltung Programmierung - Sommersemester 2019
-In diesem Repo sind zu finden:  
-- Kurze Zusammenfassungen der Übungen  
-- Ausgewählte Lösungen der Übungsaufgaben  
+Repository für Materialien und Lösungen der Übung Mittwoch 2. DS VMB - Claas de Boer
 
 ## Disclaimer
-Die gelisteten Lösungen sind nicht offiziell und daher nicht garantiert Fehlerfrei.  
-Wer Fehler findet, darf gerne eine Pull Request stellen um sie zu korrigieren.  
+Die im Repository befindlichen Lösungen sind nicht vom Lehrstuhl erstellt worden und daher nicht offiziell. 
+Trotz vielfachen Fehlerlesens können immer noch Fehler bestehen. 
+Wer Fehler findet, darf sie gerne per Pull-Request fixen. 
 
 ## Links
 **Lehrveranstaltung**  
