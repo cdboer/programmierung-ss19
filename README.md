@@ -17,3 +17,7 @@ Wer Fehler findet, darf sie gerne per Pull-Request fixen.
 [Interpreter für AM0/AM1 - Haskell](https://github.com/sebschrader/programmierung-ss2015/tree/master/AMx)  
 [JIT-Interpreter für AM0 - Java](https://github.com/JuKu/java-am0-interpreter)  
 
+**von-Mises-Bau? Kenn ich nicht ...**
+[Lage des von-Mises-Bau auf dem Campus](https://navigator.tu-dresden.de/karten/dresden/geb/vmb/@13.723538580053361,51.02804161882867,17.z)  
+[Raum E02](https://navigator.tu-dresden.de/raum/147100.0020)  
+
