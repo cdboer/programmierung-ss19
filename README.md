@@ -1,4 +1,4 @@
-# Lehrveranstaltung Programmierung - Sommersemester 2019
+# Programmierung - Sommersemester 2019
 Repository für Materialien und Lösungen der Übung Mittwoch 2. DS VMB - Claas de Boer
 
 ## Disclaimer
