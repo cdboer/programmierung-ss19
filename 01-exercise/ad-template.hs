@@ -4,6 +4,7 @@
 
 -- Aufabe ad01:
 -- Implementieren Sie die (unendliche) Liste der Fibonacci-Zahlen f0, f1, ...
+-- Hinweis: Nutzen Sie eine Funktion die Zahlen der Fibonacci Reihe berechnet. (vgl. Aufgabe 02)
 
 fibs :: [Int]
 -- TODO

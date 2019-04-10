@@ -20,7 +20,7 @@ rev :: [Int] -> [Int]
 -- Implementieren Sie eine Funktion rem, so dass rem x xs die Liste ist, die aus xs hervorgeht, indem alle Vorkommen von x gelöscht werden.
 -- z.B. rem 2 [1, 2, 3, 2] = [1, 3]
 
-rem :: [Int] -> [Int]
+rem' :: Int -> [Int] -> [Int]
 -- TODO
 
 -- Aufgabe 03D:
@@ -34,6 +34,6 @@ isOrd :: [Int] -> Bool
 -- Implementieren Sie eine Funktion, welche zwei aufsteigend sortierte Listen zu einer aufsteigend sortierten Liste vereinigt.
 -- z.B.: merge [1, 3, 5] [2, 4, 6] = [1, 2, 3, 4, 5, 6]
 
-merge [Int] -> [Int] -> [Int]
+merge :: [Int] -> [Int] -> [Int]
 -- TODO
 
