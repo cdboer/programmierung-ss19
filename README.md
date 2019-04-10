@@ -10,8 +10,7 @@ Wer Fehler findet, darf sie gerne per Pull-Request fixen.
 Viele Wege führen zum Ziel. 
 So auch beim Installieren der nötigen Tools um Haskell Code zu schreiben, zu compilieren und auszuführen.  
 
-Der wohl einfachste Weg ist die Installation der 
-[Haskell Platform](https://hackage.haskell.org/platform/). 
+Einige empfehlenswerte findet Ihr [hier](https://www.haskell.org/downloads/).  
 
 ## Von-Mises-Bau? Kenn ich nicht ...
 [Lage des von-Mises-Bau auf dem Campus](https://navigator.tu-dresden.de/karten/dresden/geb/vmb/@13.723538580053361,51.02804161882867,17.z)  
