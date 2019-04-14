@@ -44,5 +44,8 @@ countBinTrees' :: Int -> Int
 countBinTrees' n
     | even n = 0
     | otherwise =
-        let m = (n-1)  `div` 2
-        in (fac (2*m)) `div` (fac m * fac (m+1))
+        let m = div (n-1) 2
+        in div (fac (2*m)) (fac m * fac (m+1))
+
+fac :: Int -> Int
+fac n = product [1..n]
