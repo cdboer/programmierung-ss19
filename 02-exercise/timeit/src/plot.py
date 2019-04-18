@@ -47,6 +47,9 @@ if __name__ == '__main__':
     plt.ylabel('CPU time (s)')
     plt.axis([mink, maxk, minv, maxv+(maxv/10)])
 
+    # add grid
+    plt.grid(True)
+
     # save plot
     plt.savefig('plots/{}.pdf'.format(args.plot_name))
     plt.savefig('plots/{}.png'.format(args.plot_name))
