@@ -15,4 +15,4 @@ Die gewünschte Anzahl der durchzuführenden Operationen und die Größe der Sch
 
 ## Beispiel
 Plot für 0 bis 5000 Operationen, Schrittgröße 100. (50 Messwerte)  
-![Plot ++ vs :][plots/example.png]
+![Plot ++ vs :](plots/example.png)
