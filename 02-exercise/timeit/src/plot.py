@@ -43,6 +43,8 @@ if __name__ == '__main__':
     plt.plot(range(mink, maxk+1, diff), list(app.values()), label='++')
 
     plt.legend()
+    plt.xlabel('NOO - Number of operations')
+    plt.ylabel('CPU time (s)')
     plt.axis([mink, maxk, minv, maxv+(maxv/10)])
 
     # save plot
