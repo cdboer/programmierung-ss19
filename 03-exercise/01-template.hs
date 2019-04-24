@@ -4,8 +4,10 @@
 
 
 -- Aufgabe 01A
-data Tree = Node Int Tree Tree | Nil
+data Tree = Node Int Tree Tree | NIL
 
 insert :: Tree -> [Int] -> Tree
 
 -- Aufgabe 01B
+
+
