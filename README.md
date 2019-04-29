@@ -1,6 +1,9 @@
 # Programmierung - Sommersemester 2019
 Repository für Materialien und Lösungen der Übung Mittwoch 2. DS VMB - Claas de Boer
 
+## Raumverlegung - 01 Mai
+Die Übung vom 01. Mai wird auf den 02. Mai verlegt in den Raum [SCH/A202a](https://navigator.tu-dresden.de/etplan/sch/02/raum/145702.0110).
+
 ## Disclaimer
 Die im Repository befindlichen Lösungen sind nicht vom Lehrstuhl erstellt worden und daher nicht offiziell.  
 Trotz vielfachen Fehlerlesens können immer noch Fehler bestehen.  
