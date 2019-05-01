@@ -3,7 +3,7 @@
 -- Github: https://github.com/cdboer/programmierung-ss19
 
 
-data Tree a = Brach a (Tree a) (Tree a) | Leaf a
+data Tree a = Branch a (Tree a) (Tree a) | Leaf a
 
 -- Aufgabe 01A
 -- _____
