@@ -1,5 +1,5 @@
 ## Übung 06 - Programmierung TU Dresden
-**Tutor:** Claas de Boer
+**Tutor:** Claas de Boer  
 **Github:** [Link](https://github.com/cdboer/programmierung-ss19)
 
 ## Aufgabe 01
@@ -12,9 +12,9 @@ reverse (xs ++ ys) = reverse ys ++ reverse xs
 Induktionsanfang (IA):
 Sei `x :: [Int]`.  
 
-zu zeigen: `reverse (yield (Leaf x)) = yield (mirror (Leaf x))  
-linke Seite: reverse (yield (Leaf x)) = reverse [x] = [x]  
-rechte Seite: yield (mirror (Leaf x)) = yield (Leaf x) = [x]  
+zu zeigen: `reverse (yield (Leaf x)) = yield (mirror (Leaf x))`  
+linke Seite: `reverse (yield (Leaf x)) = reverse [x] = [x]`  
+rechte Seite: `yield (mirror (Leaf x)) = yield (Leaf x) = [x]`  
 --- 
 Induktionsschritt (IS):  
 
