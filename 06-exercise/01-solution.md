@@ -32,7 +32,7 @@ reverse (yield (Node x t1 t2)) = yield (mirror (Node x t1 t2))
 ``` 
 ```haskell
 reverse (yield (Node x t1 t2)) = reverse (yield t1 ++ t2)
-			       = reverse (yield t2) ++ reverse (yield t1)
+                               = reverse (yield t2) ++ reverse (yield t1)
                                = reverse (yield t2) ++ yield (mirror t1)
                                = yield (mirror t2) ++ yield (mirror t1)
                                = yield (node x (mirror t2) (mirror t1))
