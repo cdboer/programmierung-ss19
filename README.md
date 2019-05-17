@@ -1,7 +1,7 @@
 # Programmierung - Sommersemester 2019
 Repository für Materialien und Lösungen der Übung Mittwoch 2. DS VMB - Claas de Boer
 
-## Raumverlegung - 01 Mai
+## Raumverlegungen - Ausweichtermine
 Die Übung vom 01. Mai 2.DS wird auf den 02. Mai 3.DS im Raum [SCH/A202a](https://navigator.tu-dresden.de/etplan/sch/02/raum/145702.0110) verlegt.  
 Die Übung vom 22. Mai 2.DS wird auf den 23. Mai 3.DS im Raum [APB/E042](https://navigator.tu-dresden.de/raum/542100.2550) verlegt.  
 
