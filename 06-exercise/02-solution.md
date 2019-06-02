@@ -3,18 +3,18 @@
 **Github:** [Link](https://github.com/cdboer/programmierung-ss19)
 
 ## Aufgabe 02
-#### Induktionsanfang (IA):  
-Sei `t = Leaf a` und `i,a :: Int`.  
+#### Induktionsanfang (IA):
+Sei `t = Leaf a` und `i,a :: Int`.
 
-zu zeigen: `add (neg i t) = i * (sub t)`  
+zu zeigen: `add (neg i t) = i * (sub t)`
 
-linke Seite: `add (neg i (Leaf a)) = add (Leaf (a * i)) = a * i`  
+linke Seite: `add (neg i (Leaf a)) = add (Leaf (a * i)) = a * i`
 
-rechte Seite: `i * sub (Leaf a) = i * a = a * i`  
+rechte Seite: `i * sub (Leaf a) = i * a = a * i`
 
 ---
-#### Induktionsschritt (IS):  
-Seien `t1, t2 :: Tree`, sodass für beliebige `i :: Int` gilt:  
+#### Induktionsschritt (IS):
+Seien `t1, t2 :: Tree`, sodass für beliebige `i :: Int` gilt:
 ```haskell
 add (neg i 1) = i * sub t1
 add (neg i t2) = i * sub t2
