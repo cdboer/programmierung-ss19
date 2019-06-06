@@ -6,7 +6,7 @@ Die Übung vom 01. Mai 2.DS wird auf den 02. Mai 3.DS im Raum [SCH/A202a](https:
 
 Die Übung vom 22. Mai 2.DS wird auf den 23. Mai 3.DS im Raum [APB/E042](https://navigator.tu-dresden.de/raum/542100.2550) verlegt.
 
-Die Übung vom 05. Juni entfällt. Ein Ausweichtermin wird vorraussichtlich am Freitag den 07. Juni in der 3. DS im Raum APB/E067 stattfinden. Dieser Hinweis wird aktualisiert sobald neue Informationen zur Verfügung stehen.
+Die Übung vom 05. Juni entfällt. Ein Ausweichtermin wird vorraussichtlich am Freitag den 07. Juni in der 3. DS im Raum APB/E067 stattfinden.
 
 ## Disclaimer
 Die im Repository befindlichen Lösungen sind nicht vom Lehrstuhl erstellt worden und daher nicht offiziell.
