@@ -19,6 +19,21 @@ So auch beim Installieren der nötigen Tools um Haskell Code zu schreiben, zu co
 
 Einige empfehlenswerte findet Ihr [hier](https://www.haskell.org/downloads/).
 
+Starte eine interaktive `ghc` Session und lade eine Beispiel Datei, via:
+```shell
+ghci
+GHCi, version 8.6.5: http://www.haskell.org/ghc/  :? for help
+Prelude>
+Prelude> :l example.hs
+[1 of 1] Compiling Main             ( example.hs, interpreted )
+Ok, one module loaded.
+*Main>
+```
+Lade eine Datei nach Abänderung neu:
+```shell
+*Main> :r
+```
+
 ## Apropos Prolog
 In der Übung wird die Prolog Umgebung [Swi-Prolog](http://www.swi-prolog.org/) mit dem Interpreter `swipl` genutzt.
 
