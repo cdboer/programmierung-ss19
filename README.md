@@ -19,7 +19,7 @@ So auch beim Installieren der nötigen Tools um Haskell Code zu schreiben, zu co
 
 Einige empfehlenswerte findet Ihr [hier](https://www.haskell.org/downloads/).
 
-Starte eine interaktive `ghc` Session und lade eine Beispiel Datei, via:
+Starte eine interaktive `ghc` Session und lade eine Datei, via:
 ```shell
 ghci
 GHCi, version 8.6.5: http://www.haskell.org/ghc/  :? for help
